@@ -5,6 +5,7 @@ Os dados estão disponíveis gratuitamente em http://archive.ics.uci.edu/ml/data
 
 
 Relatorio.pdf contém o relatório com os resultados obtidos.
+apresentação.pdf contém os slides apresentados em sala de aula, no dia 12/12/2018
 Exploração e Justificativa(.html, .pdf, .ipynb) tem exploração de parametros e variações dos diferentes métodos, assim como a plottagem dos gráficos usados
 Aplicacao(.html, .pdf, .ipynb) tem a simples aplicação dos algoritmos escolhidos sobre a base de dados.
 covtype.data tem a base de dados em si.
